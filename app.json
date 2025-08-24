@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "CH-AOUN-MD
+      "value": "CH-AOUN-MD"
     }, 
       
     "PREFIX": {
