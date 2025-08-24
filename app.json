@@ -1,6 +1,6 @@
 {
   "name": "CH-AOUN-MD",
-  "description": "Javascript WhatsApp bot made by E3_HACKER_MD",
+  "description": "Javascript WhatsApp bot made by CH-AOUN-MD",
   "logo": "https://files.catbox.moe/p4yxcn.png",
   "keywords": ["CH-AOUN-MD"],
   "success_url": "/",
@@ -78,12 +78,12 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY E3_HACKER_MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY CH-AOUN-MD🖤*"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "Type Bot Owner Name. CH-AOUN-MD",
       "required": false,
       "value": "CH-AOUN-MD*"
 }, 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿 ❣️*"
+      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙀CH-AOUN-MD ❣️*"
     },
 
       "DELETE_LINKS": {
